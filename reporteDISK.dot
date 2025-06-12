@@ -1,0 +1,4 @@
+digraph t { tabla [ shape = plaintext
+ color = black
+ label=<
+<table border='1' cellborder='1'><tr><td> MBR </td><td> LIBRE </td><td> part2 </td><td> part3 </td><td> part4 </td></tr></table> >]; }
